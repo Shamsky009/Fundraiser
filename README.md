@@ -1,5 +1,5 @@
-# Fundraiser
-The Fast decision helps C-suite peoples to handle the day to day operations under one roof. Our Fast decision application built on using various Microsoft features like PowerBI, Power Automate, Power Apps and Teams which enhance the top management to interact and collaborate with other team members or department for better decision making.
+# Fast Decision
+The Fast decision helps C-suite people to handle the day to day operations under one roof. Our Fast decision application built on using various Microsoft features like PowerBI, Power Automate, Power Apps and Teams which enhance the top management to interact and collaborate with other team members or department for better decision making.
 The below Dashboard is built on using powerBI and we incorporated those dashboard into Microsoft Teams so that C-suite executives are not required to switch between applications or systems to get to know the overall happenings. 
 
 ![alt text](https://github.com/Shamsky009/Fundraiser/blob/main/image_2021_02_05T06_49_28_878Z.png?raw=true)
